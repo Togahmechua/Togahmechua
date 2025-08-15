@@ -24,7 +24,7 @@
 ---
 
 ### 🐍 Snake Contributions
-![Snake animation](https://github.com/Togahmechua/Togahmechua/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Togahmechua/Togahmechua/output/github-contribution-grid-snake.svg)
 
 ---
 
