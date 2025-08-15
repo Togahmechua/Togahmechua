@@ -18,8 +18,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Togahmechua&show_icons=true&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)
 
 ---
 
