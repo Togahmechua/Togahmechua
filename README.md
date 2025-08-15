@@ -25,9 +25,9 @@
 
 ![Snake animation](https://github.com/Togahmechua/Togahmechua/blob/output/github-contribution-grid-snake.svg)
 
+
 ### 📫 Contact Me  
 - 💌 Email: vuongducanh308@gmail.com 
-- 🌐 Portfolio: [Your Website](https://your-portfolio-link.com)
   
 ---
 
