@@ -30,7 +30,7 @@
 
 ### 📫 Contact Me  
 - 💌 Email: vuongducanh308@gmail.com 
-- 🌐 Portfolio: [Itch.io](https://togahmechua.itch.io/)
+- 🌐 Portfolio: [Check out my games on Itch.io](https://togahmechua.itch.io/)
   
 ---
 
