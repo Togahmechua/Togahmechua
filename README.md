@@ -3,20 +3,19 @@
 ---
 
 ### 🌟 About Me  
-
 <table>
-<tr style="border: none;">
-<td style="border: none; vertical-align: top;">
+<tr>
+<td width="500">
 
-- 🎯 Passionate about **Game Development** & **Unity**  
-- 📚 Currently learning **C#**, **Game Mechanics**, and **3D/2D Game Design**  
+- 🎯 Passionate about **Game Development & Unity**  
+- 📚 Currently learning **C#, Game Mechanics, and 3D/2D Game Design**  
 - 🎮 Love creating fun and challenging projects  
 - ✨ Always open to learning new tech  
 
 </td>
-<td style="border: none;">
+<td width="300" align="center">
 
-<img src="https://github.com/user-attachments/assets/e1975b3b-2de6-444f-b8a4-16e53c9a5505" alt="Coding Cat" width="250"/>
+<img src="https://github.com/user-attachments/assets/e1975b3b-2de6-444f-b8a4-16e53c9a5505" width="250">
 
 </td>
 </tr>
@@ -24,15 +23,28 @@
 
 ---
 
-### 🛠 Tech Stack
-- **Languages**: C#  
-- **Game Engine**: Unity  
-- **Tools**: Git, VS Code  
+### 🛠 Tech Stack & 📊 GitHub Stats  
+<table>
+<tr>
+<td width="500">
 
----
+- 💻 **Languages**: C#, ShaderLab, HLSL  
+- 🎮 **Game Engine**: Unity (2D/3D)  
+- 🔧 **Tools & Platforms**: VS Code, Itch.io  
+- 🎨 **Design**: Photoshop, Aseprite, Blender (basic)  
+- 🌐 **Version Control**: Git, GitHub  
+- ⚙️ **CI/CD**: GitHub Actions (basic automation)  
 
-### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)
+</td>
+<td width="300" align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)  
+<br>  
+![](https://github-readme-stats.vercel.app/api?username=Togahmechua&show_icons=true&theme=tokyonight)
+
+</td>
+</tr>
+</table>
 
 ---
 
