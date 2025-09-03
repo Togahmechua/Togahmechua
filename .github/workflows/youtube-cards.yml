@@ -15,7 +15,7 @@ jobs:
         with:
           channel_id: UCUiCiwcllw6-DbknHYGfu-A
           video_ids: fKpZ6N6_deo,baIV8lsQ38c,lHIm8m6QqHI,CdIwVFutXmk
-          max_videos: 4
+          max_videos: 6
           card_width: 260
           border_radius: 8
           background_color: "#0d1117"
