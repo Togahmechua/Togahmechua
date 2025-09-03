@@ -67,8 +67,22 @@
 ---
 
 ### 📫 Contact Me  
-- 💌 Email: vuongducanh308@gmail.com  
-- 🌐 Other: [Check out my games on Itch.io](https://togahmechua.itch.io/)  
+
+<table>
+<tr>
+<td width="500">
+
+- 💌 **Email**: vuongducanh308@gmail.com  
+- 🌐 **Other**: [Check out my games on Itch.io](https://togahmechua.itch.io/)  
+
+</td>
+<td width="300" align="center">
+
+<img src="https://github.com/user-attachments/assets/a5bb8409-b069-4ce3-adc8-d368acb158fd" width="200" />
+
+</td>
+</tr>
+</table>
 
 ---
 
