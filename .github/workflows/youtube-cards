@@ -1,0 +1,27 @@
+name: GitHub Readme YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # chạy mỗi giờ để update tự động
+  workflow_dispatch:       # cho phép chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCUiCiwcllw6-DbknHYGfu-A
+          video_ids: fKpZ6N6_deo,baIV8lsQ38c,lHIm8m6QqHI,CdIwVFutXmk
+          max_videos: 4
+          card_width: 260
+          border_radius: 8
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          commit_message: "docs(readme): update YouTube cards"
+          readme_path: README.md
+          output_only: false
+          output_type: markdown
