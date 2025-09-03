@@ -3,22 +3,36 @@
 ---
 
 ### 🌟 About Me  
+
+<table>
+<tr style="border: none;">
+<td style="border: none; vertical-align: top;">
+
 - 🎯 Passionate about **Game Development** & **Unity**  
 - 📚 Currently learning **C#**, **Game Mechanics**, and **3D/2D Game Design**  
 - 🎮 Love creating fun and challenging projects  
 - ✨ Always open to learning new tech  
 
+</td>
+<td style="border: none;">
+
+<img src="https://github.com/user-attachments/assets/e1975b3b-2de6-444f-b8a4-16e53c9a5505" alt="Coding Cat" width="250"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🛠 Tech Stack
-- **Languages**: C#
+- **Languages**: C#  
 - **Game Engine**: Unity  
-- **Tools**: Git, VS Code
+- **Tools**: Git, VS Code  
 
 ---
 
 ### 📊 GitHub Stats  
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Togahmechua&layout=compact&theme=tokyonight)
 
 ---
 
@@ -27,7 +41,7 @@
 
 ---
 
-## 🎥 My YouTube Videos
+## 🎥 My YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Extinguisher Spin](https://ytcards.demolab.com/?id=lHIm8m6QqHI&title=Extinguisher+Spin&lang=en&timestamp=1750670747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=260&border_radius=8 "Extinguisher Spin")](https://www.youtube.com/watch?v=lHIm8m6QqHI)
@@ -41,9 +55,9 @@
 ---
 
 ### 📫 Contact Me  
-- 💌 Email: vuongducanh308@gmail.com 
-- 🌐 Other: [Check out my games on Itch.io](https://togahmechua.itch.io/)
-  
+- 💌 Email: vuongducanh308@gmail.com  
+- 🌐 Other: [Check out my games on Itch.io](https://togahmechua.itch.io/)  
+
 ---
 
 ⭐️ _"Keep coding, keep creating, keep growing!"_
